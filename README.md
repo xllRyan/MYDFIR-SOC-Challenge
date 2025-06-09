@@ -67,3 +67,8 @@ Logstash acts as the data pipeline. It ingests data from either Beats or Elastic
 Kibana provides the visual layer. It is a web interface that allows users to interact with the data stored in Elasticsearch. Through Kibana, users can create dashboards, perform searches, and visualize data trends and patterns, making it easier to gain insights and monitor systems.
 
 In summary, Logstash collects and processes data, Elasticsearch stores and indexes it, and Kibana visualizes it, working together seamlessly to provide a powerful data analysis platform.
+
+This is the network diagram
+
+![image](https://github.com/user-attachments/assets/068b29fa-c10c-437e-b89c-5329c7ab0449)
+
