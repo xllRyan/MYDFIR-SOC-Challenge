@@ -68,7 +68,12 @@ Kibana provides the visual layer. It is a web interface that allows users to int
 
 In summary, Logstash collects and processes data, Elasticsearch stores and indexes it, and Kibana visualizes it, working together seamlessly to provide a powerful data analysis platform.
 
-This is the network diagram
+Network diagram
 
 ![image](https://github.com/user-attachments/assets/068b29fa-c10c-437e-b89c-5329c7ab0449)
+
+Link to YT Video
+https://youtu.be/lCs7gYMWjSU 
+
+
 
